@@ -27,7 +27,6 @@ const indexTheme = {
   textAlign: {
     left: 'left',
     center: 'center',
-    right: 'right',
   },
 };
 export default indexTheme;
